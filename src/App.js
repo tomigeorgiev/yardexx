@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Coming Soon...
-        </p>
+        </p><hr/>
         <p> Developed by Yardex </p>
       </header>
     </div>
