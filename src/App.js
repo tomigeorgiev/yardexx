@@ -7,10 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Coming Soon...
+          Coming Soon
         </p>
-      </header><hr/>
-        <p> Developed by Yardex </p>
+      </header>
     </div>
   );
 }
